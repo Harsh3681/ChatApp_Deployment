@@ -1,0 +1,29 @@
+first go to terminal divede terminal to 2 part split terminal
+then go to the first part and type this command ----> cd api
+then go to the second part and type this command ----> cd api
+then type this command ----> npm install
+then type this command ----> npm start
+then go to the first part and type this command ----> cd client
+then go to the second part and type this command ----> cd client
+then type this command ----> npm install
+then type this command ----> npm start
+
+then go to the browser and type this url ----> http://localhost:3000
+
+then you will see the website
+
+then you can use the website
+
+if you want to use the website in the mobile then you have to install the "expo app" in the mobile
+
+then go to the browser and type this url ----> http://localhost:19002
+
+then you will see the QR code
+
+then scan the QR code in the mobile
+
+then you will see the website in the mobile
+
+
+
+
